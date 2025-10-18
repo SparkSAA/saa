@@ -7,3 +7,5 @@ Extra conditions are required for PCB, TD, HSiFS, WBaWC and UM; these
 are No Border Breaks for PCB, No Trance for TD, No Release for HSiFS, No Berserk Roar No Roar Breaks for WBaWC, No Cards for UM and No Hyper Breaks for FW. 
 LNN in these games is called LNNN or LNNNN, with extra Ns to denote the extra conditions. The extra condition in UFO, no UFO summons, is optional, 
 as it is not considered to have a significant impact on the difficulty of the run. As for IN, an LNN is assumed to capture all Last Spells and is referred to as LNNFS.
+
+>>>>>
